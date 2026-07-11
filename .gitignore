@@ -1,7 +1,5 @@
 Data
-catboost_info
 .vscode
-11_Data_Preprocessing.ipynb
 Models
 utils
 api
