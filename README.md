@@ -97,7 +97,7 @@ The objective is to predict loan default before approval so lenders can:
 
 # 📊 Dataset
 
-**Dataset:** Home Credit Default Risk (Kaggle) - [Dataset 🔗](https://www.kaggle.com/competitions/home-credit-default-risk)
+**Dataset:** [Home Credit Default Risk (Kaggle)](https://www.kaggle.com/competitions/home-credit-default-risk)
 
 Sources used:
 
